@@ -8,6 +8,8 @@
 
 > Vous utilisiez ITN Converter (ITNConv) et il vous manque ? C'est pour vous.
 
+![GpyX — un itinéraire en forme de cœur à travers la France, 2659 km](screenshot.png)
+
 ---
 
 ## Démarrage rapide
